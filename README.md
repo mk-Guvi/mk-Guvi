@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Musharaf</h1>
 
-# 💫 About Me:
 🔭 A Full Stack developer specialized in Web Application Development using JavaScript, React.js, Node.js, Next.js, and other frameworks and libraries.<br>👯 I’m looking to collaborate on web development projects that leverage my expertise in JavaScript, React.js, Node.js, Next.js, Redux, Material UI, Tailwind CSS, and MongoDB.<br>🤝 I’m looking for help with continuous learning and exploring new technologies to enhance my skills in web development.<br>🌱 I’m currently learning and staying up-to-date with the latest developments in the world of web development, especially in JavaScript and related technologies.<br>💬 Ask me about anything related to JavaScript, TypeScript, React.js, Next.js, Node.js, Redux, Material UI, Tailwind CSS, or MongoDB. I'm here to help!<br>⚡ Fun fact: I'm passionate about coding and enjoy building web applications that make a positive impact on users' lives.<br>- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1k_OIUYAqvKrGSqPP95jzRCNrwQNEHGVj/view?usp=sharing)
 
 
